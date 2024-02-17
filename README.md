@@ -1,4 +1,4 @@
-# vue-social-sso-login
+# vue3-social-sso-login
 
 ## Project setup
 ```
